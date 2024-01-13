@@ -37,7 +37,6 @@ const ContactMotion = () => {
       <div className="flex items-center font-semibold">
       <BackgroudText />
       </div>
-     
       <Container className="absolute top-0 left-1/3 h-full flex items-center justify-center mt-24 md:mt-4 z-10">
         <FadeIn className="">
           <section>

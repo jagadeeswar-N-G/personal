@@ -44,7 +44,7 @@ const Navigation = () => {
         <NavigationItem href="/about">Projects</NavigationItem>
       </NavigationRow>
       <NavigationRow>
-        <NavigationItem href="/process">Journey</NavigationItem>
+        <NavigationItem href="/journey">Journey</NavigationItem>
         <NavigationItem href="/contact">Contact</NavigationItem>
       </NavigationRow>
     </nav>

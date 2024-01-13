@@ -117,7 +117,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const BackgroudText = ()=>{
     return /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"]("div", {
-        className: "mt-4 text-7xl md:text-8xl text-gray-600 opacity-15",
+        className: "mt-4 text-6xl md:text-8xl text-gray-600 opacity-15",
         children: [
             /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"]("p", {
                 children: "Let's"
@@ -240,32 +240,32 @@ const ContactMotion = ()=>{
                                             children: item.title
                                         }, void 0, false, {
                                             fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                            lineNumber: 51,
+                                            lineNumber: 50,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                        lineNumber: 46,
+                                        lineNumber: 45,
                                         columnNumber: 17
                                     }, this)
                                 }, item.title, false, {
                                     fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                    lineNumber: 45,
+                                    lineNumber: 44,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "<[project]/src/components/ContactMotion.tsx>",
-                            lineNumber: 43,
+                            lineNumber: 42,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "<[project]/src/components/ContactMotion.tsx>",
-                        lineNumber: 42,
+                        lineNumber: 41,
                         columnNumber: 9
                     }, this)
                 }, void 0, false, {
                     fileName: "<[project]/src/components/ContactMotion.tsx>",
-                    lineNumber: 41,
+                    lineNumber: 40,
                     columnNumber: 7
                 }, this)
             ]

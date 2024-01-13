@@ -258,32 +258,32 @@ const ContactMotion = ()=>{
                                             children: item.title
                                         }, void 0, false, {
                                             fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                            lineNumber: 51,
+                                            lineNumber: 50,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                        lineNumber: 46,
+                                        lineNumber: 45,
                                         columnNumber: 17
                                     }, this)
                                 }, item.title, false, {
                                     fileName: "<[project]/src/components/ContactMotion.tsx>",
-                                    lineNumber: 45,
+                                    lineNumber: 44,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "<[project]/src/components/ContactMotion.tsx>",
-                            lineNumber: 43,
+                            lineNumber: 42,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "<[project]/src/components/ContactMotion.tsx>",
-                        lineNumber: 42,
+                        lineNumber: 41,
                         columnNumber: 9
                     }, this)
                 }, void 0, false, {
                     fileName: "<[project]/src/components/ContactMotion.tsx>",
-                    lineNumber: 41,
+                    lineNumber: 40,
                     columnNumber: 7
                 }, this)
             ]
