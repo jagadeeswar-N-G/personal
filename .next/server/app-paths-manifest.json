@@ -2,5 +2,6 @@
   "/page": "app/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/not-found": "app/not-found.js",
-  "/journey/page": "app/journey/page.js"
+  "/journey/page": "app/journey/page.js",
+  "/contact/page": "app/contact/page.js"
 }
