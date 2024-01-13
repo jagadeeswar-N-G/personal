@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/components/style.module.css [app-client] (css module)"],"sourcesContent":["__turbopack_export_value__({\n  \"container\": \"container__style__e4bb6a08\",\n  \"scroll\": \"scroll__style__e4bb6a08\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA"}},
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/components/ContactMotion.tsx"],"sourcesContent":["// YourReactComponent.js\r\nimport React from 'react';\r\nimport style from './style.module.css';\r\n\r\nconst YourReactComponent = () => {\r\n  return (\r\n    <div className={style.container}>\r\n      <p className=\"text-xl text-black\">Your scrolling text goes here</p>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default YourReactComponent;\r\n"],"names":[],"mappings":"AAAA,wBAAwB;;;;;;;;;AAIxB,MAAM,qBAAqB;IACzB,qBACE,wLAAC;QAAI,WAAW,qJAAM,SAAS;kBAC7B,cAAA,wLAAC;YAAE,WAAU;sBAAqB;;;;;;;;;;;AAGxC;KANM;uCAQS"}},
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/contact/page.tsx"],"sourcesContent":["\"use client\"\r\nimport ContactMotion from \"@/components/ContactMotion\";\r\nimport Container from \"@/components/Container\";\r\nimport FadeIn from \"@/components/FadeIn\";\r\nimport React, { useEffect, useState } from \"react\";\r\n\r\nconst Contact = () => {\r\n  \r\n  return (\r\n    <>\r\n    <Container className=\"flex h-full items-center pt-20 sm:pt-24 lg:pt-32\"></Container>\r\n    <ContactMotion/>\r\n    </>\r\n  );\r\n};\r\nexport default Contact;\r\n"],"names":[],"mappings":";;;;;;;AAAA;;;;AAMA,MAAM,UAAU;IAEd,qBACE;;0BACA;gBAAW,WAAU;;;;;;0BACrB;;;;;;;AAGJ;KARM;uCASS"}},
+    {"offset": {"line": 81, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

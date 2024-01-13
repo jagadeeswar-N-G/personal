@@ -1,4 +1,4 @@
-import RootLayout from "./components/RootLayout";
+import RootLayout from "../components/RootLayout";
 import "./globals.css";
 import React from "react";
 

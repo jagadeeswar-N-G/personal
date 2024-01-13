@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/contact/page.tsx"],"sourcesContent":["\"use client\";\r\nimport ContactMotion from \"@/components/ContactMotion\";\r\nimport Container from \"@/components/Container\";\r\nimport FadeIn from \"@/components/FadeIn\";\r\nimport React, { useEffect, useState } from \"react\";\r\n\r\nconst Contact = () => {\r\n  return (\r\n    <>\r\n      <ContactMotion />\r\n    </>\r\n  );\r\n};\r\nexport default Contact;\r\n"],"names":[],"mappings":";;;;;;AAAA;;;AAMA,MAAM,UAAU;IACd,qBACE;kBACE,cAAA;;;;;;AAGN;uCACe"}},
+    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
