@@ -1,22 +1,20 @@
 import React from "react";
 import Container from "./Container";
 import FadeIn from "./FadeIn";
-import Image from "next/image";
-import poster from "../images/poster-selling.png";
+import { BsGithub, BsLinkedin } from "react-icons/bs";
+import Link from "next/link";
 
-const Section = ({ title, image, children }: any) => {
+const Section = ({ title, link, children }: any) => {
   return (
     <Container className="group/section [counter-increment:section]">
       <div className="lg:flex lg:items-center lg:justify-end lg:gap-x-8 lg:group-even/section:justify-start xl:gap-x-20">
         <div className="flex justify-center">
-          <FadeIn className="md:w-[33.75rem] flex-none lg:w-[45rem]">
-            <figure className="max-w-sm md:max-w-2xl relative transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-              <Image
-                className="rounded-lg"
-                src={poster}
-                alt="image description"
-              />
-            </figure>
+          <FadeIn className="md:w-[33.75rem] flex-none lg:w-[45rem] mt-5">
+            <Link href={link} target="_blank" rel="noopener noreferrer">
+              <p className="text-black text-xl flex items-center justify-center h-20 gap-6">
+                Code On Github <BsGithub />
+              </p>
+            </Link>
           </FadeIn>
         </div>
         <div className="mt-12 lg:mt-0 lg:w-[37rem] lg:flex-none lg:group-even/section:order-first">

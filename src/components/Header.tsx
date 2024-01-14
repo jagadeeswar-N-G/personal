@@ -39,7 +39,7 @@ const Header = ({
           </Link>
           <div className="flex items-center gap-x-8">
             <Button invert={invert}>
-              <Link href={'../assets/Resume-jagadeeswar.pdf'}  target="_blank"  rel="noopener noreferrer" locale={false} aria-label="Downlod Resume" download>
+              <Link href={'https://drive.google.com/file/d/1eAr73LsZnJL8qXq_wwN9T2UJETSeNFxx/view?usp=sharing'}  target="_blank"  rel="noopener noreferrer" locale={false} aria-label="Downlod Resume" download>
               Resume
               </Link>
             </Button>
