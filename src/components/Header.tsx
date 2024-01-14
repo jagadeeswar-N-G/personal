@@ -38,8 +38,10 @@ const Header = ({
             <Logo invert={invert}>JR.</Logo>
           </Link>
           <div className="flex items-center gap-x-8">
-            <Button href={"/contact"} invert={invert}>
+            <Button invert={invert}>
+              <Link href={'../assets/Resume-jagadeeswar.pdf'}  target="_blank"  rel="noopener noreferrer" locale={false} aria-label="Downlod Resume" download>
               Resume
+              </Link>
             </Button>
             <button
               ref={toggleRef}
