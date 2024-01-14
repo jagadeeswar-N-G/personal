@@ -32,7 +32,7 @@ const Header = ({
     // Container
     return (
       <Container>
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between ">
           {/* Logo */}
           <Link href={"/"} aria-label="Home">
             <Logo invert={invert}>JR.</Logo>
