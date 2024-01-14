@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sections": [
-    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/contact/page.tsx"],"sourcesContent":["\"use client\";\r\nimport ContactMotion from \"@/components/ContactMotion\";\r\nimport Container from \"@/components/Container\";\r\nimport FadeIn from \"@/components/FadeIn\";\r\nimport React, { useEffect, useState } from \"react\";\r\n\r\nconst Contact = () => {\r\n  return (\r\n    <>\r\n    <Container className=\"flex h-full items-center pt-20 sm:pt-24 lg:pt-32 text-black\">\r\n      <FadeIn className=\"flex flex-col items-center\">\r\n      <ContactMotion />\r\n      </FadeIn>\r\n    </Container>\r\n     \r\n    </>\r\n  );\r\n};\r\nexport default Contact;\r\n"],"names":[],"mappings":";;;;;;;;AAAA;;;;;AAMA,MAAM,UAAU;IACd,qBACE;kBACA,cAAA;YAAW,WAAU;sBACnB,cAAA;gBAAQ,WAAU;0BAClB,cAAA;;;;;;;;;;;;;;;;AAMN;KAXM;uCAYS"}},
-    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

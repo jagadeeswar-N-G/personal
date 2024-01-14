@@ -1,7 +1,8 @@
 {
+  "/contact/page": "app/contact/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/journey/page": "app/journey/page.js",
   "/page": "app/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/not-found": "app/not-found.js",
-  "/journey/page": "app/journey/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/projects/page": "app/projects/page.js"
 }

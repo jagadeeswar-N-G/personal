@@ -40,8 +40,8 @@ const Navigation = () => {
   return (
     <nav className="mt-px font-display text-5xl font-medium tracking-tight text-white">
       <NavigationRow>
-        <NavigationItem href="/work">About</NavigationItem>
-        <NavigationItem href="/about">Projects</NavigationItem>
+        <NavigationItem href="/">Home</NavigationItem>
+        <NavigationItem href="/projects">Projects</NavigationItem>
       </NavigationRow>
       <NavigationRow>
         <NavigationItem href="/journey">Journey</NavigationItem>

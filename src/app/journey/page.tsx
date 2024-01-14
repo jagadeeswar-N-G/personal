@@ -46,7 +46,7 @@ const page = () => {
                 <p>Philosophy Society</p>
                 <p className="font-normal text-sm md:text-base text-gray-700 text-justify">Proficient in crafting compelling and thought-provoking content, I have been entrusted with the responsibility of designing and curating posts on philosophy.</p>
               </div>
-              <div className="absolute top-[89%] left-[-5px] w-[15px] h-[10px] bg-red-700 rounded-full" />
+              <div className="absolute top-[89%] left-[-5px] w-[15px] h-[10px] bg-yellow-200 rounded-full" />
               <div className="absolute top-[89%] left-[25px] md:w-[600px] w-[300px]">
               <p className=" flex items-center font-medium gap-3">Vahani Scholar <SiGooglescholar /></p>
                 <p>Vahani</p>
